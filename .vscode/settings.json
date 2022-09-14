@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "screen.h": "c",
+        "userinfo.h": "c",
+        "cardreader.h": "c"
+    }
+}
